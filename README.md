@@ -1,9 +1,9 @@
-Objective: create a new React-based Google Books Search app
+Objective: Create an app that lets users view and leave comments on the latest science news from https://www.wired.com/category/science/
 
 Contributor: Adam Jacobs
 
-History:
+History: 
 
-Hat tip to: 
+Hat tip to: YouTube and fellow Classmates.
 
-Functionality: Deployed through Heroku: https://hitthebooks.herokuapp.com/
+Functionality: Deployed through Heroku: https://newsscraperz.herokuapp.com/
